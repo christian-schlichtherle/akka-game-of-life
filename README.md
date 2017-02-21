@@ -1,9 +1,8 @@
 # Akka Game of Life
 
-This is simple implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) 
+This is a simple implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) 
 using (Akka)[http://akka.io].
-
-This is a fun project for comparison with another 
+It's a fun project for comparison with another 
 [implementation in Ruby](https://github.com/christian-schlichtherle/ruby-game-of-life).
 
 ## How to Use
@@ -12,7 +11,7 @@ First, start sbt:
 
     sbt
 
-Now, for simulating a random pattern of cells on a grid with 80 rows and 240 columns:
+Now, for simulating a random pattern of cells on a board with 80 rows and 240 columns:
 
     > run 80 240
     

@@ -2,7 +2,10 @@
 
 This is simple implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) 
 using (Akka)[http://akka.io].
- 
+
+This is a fun project for comparison with another 
+[implementation in Ruby](https://github.com/christian-schlichtherle/ruby-game-of-life).
+
 ## How to Use
 
 First, start sbt:

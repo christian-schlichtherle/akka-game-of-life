@@ -1,7 +1,7 @@
 # Akka Game of Life
 
 This is a simple implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) 
-using (Akka)[http://akka.io].
+using [Scala](https://www.scala-lang.org) with [Akka](http://akka.io).
 It's a fun project for comparison with another 
 [implementation in Ruby](https://github.com/christian-schlichtherle/ruby-game-of-life).
 

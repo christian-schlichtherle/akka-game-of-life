@@ -48,7 +48,7 @@ object GameController {
 
   def printGrid(grid: Game#Grid): Unit = {
     import Console._
-    print(grid.toString)
+    print(grid)
     flush()
   }
 }

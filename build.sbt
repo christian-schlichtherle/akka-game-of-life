@@ -16,6 +16,6 @@ name := "akka-game-of-life"
 
 scalacOptions := Seq("-deprecation", "-feature", "-Xfuture")
 
-scalaVersion := "2.12.1"
+scalaVersion := "2.11.8"
 
 version := "0.1-SNAPSHOT"
